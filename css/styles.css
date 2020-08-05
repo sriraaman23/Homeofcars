@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(238, 34, 34);
+}
+
+.box{
+    font-size: 35px;
+    background-color: yellow;
+    padding: 5%;
+    margin: 2.5%;
+    border: 1%;
+    border-style: groove;
+    border-color: tomato;
+    width: 83%;
+}
